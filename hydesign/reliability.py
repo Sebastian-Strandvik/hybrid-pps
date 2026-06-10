@@ -200,5 +200,3 @@ class pvp_with_reliability_comp(ComponentWrapper):
             function=model.compute,
             partial_options=[{"dependent": False, "val": 0}],
         )
-
-jrjgog
